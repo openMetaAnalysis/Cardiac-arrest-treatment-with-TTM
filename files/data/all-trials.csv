@@ -1,9 +1,17 @@
-Study,Year,PMID,experimental_events,experimental_total,control_events,control_total, Cofactor,
-COPPS-2,2014,25172965,35,180,53,180, Primary prevention of postpericardiotomy syndrome,
-COPPS,2010,20805112,16,180,38,180, Primary prevention of postpericardiotomy syndrome,
-Finkelstein,2002,12574898,5,47,14,64, Primary prevention of postpericardiotomy syndrome,
-ICAP,2013,23992557,20,120,45,120, Secondary prevention (after single episode of pericarditis),
-COPE,2005,16186437,7,60,20,60, Secondary prevention (after single episode of pericarditis),
-CORP-2,2014,24694983,26,120,51,120, Secondary prevention (after > one episode of pericarditis),
-CORE,2005,16186468,9,42,19,42, Secondary prevention (after > one episode of pericarditis),
-CORP,2011,21873705,12,60,34,60, Secondary prevention (after > one episode of pericarditis),
+author,year,pmid,event.e,n.e,event.c,n.c,group.no,Risk.of.Bias,Trial.registration,Population,No-flow.duration,Delay.till.TM,Intervention,Target,TM.Duration(h),Control,Outcome
+Mori,2000,NA,18,36,2,18,1,,NA,Mixed,,,Surface cooling,,,No cooling,
+Hachimi-Idrissi,2001,11738778,8,16,2,17,1,,NA,Nonshockable,,,Surface cooling,34,4?,No cooling,
+HACA,2002,11856793,75,136,54,137,1,,NA,Shockable,0.36,,Surface cooling,33,24,No cooling,CPC I/II
+Bernard,2002,11856794,21,43,9,34,1,,NA,Shockable,0.43,,EMS surface cooling,33,12,No cooling,survival at hospital d/c
+Laurent,2005,16053954,7,22,9,20,2,,NA,Mixed,,,Intravascular in hospital,32,24,No cooling,survival at 6 mo.
+Lascarrou (CRICS-TRIGGERSEP),2019,31577396,29,284,17,297,0,,NCT01994772,Nonshockable,,3.8,Surface cooling,33,24,No cooling,Discharge home
+Kim,2007,17548731,19,63,16,62,3,,NCT00329563,Mixed,,,EMS Esophageal,33,24,No cooling,survival at hospital d/c
+Kämäräinen,2009,19496762,8,19,8,18,3,,NA,Mixed,0.37,0.43,EMS Intravascular,33,,No cooling,CPC I/II
+Bernard (Rich),2010,20679551,56,118,61,116,3,,ACTRN12605000179639,Shockable,0.43,,EMS Intravascular,33,24,33° cooling,favorable outcome (d/c to home or rehab)
+Castren,2010,20679548,11,93,9,101,3,,NCT00808236,Mixed,0.52,,EMS Intranasal,34,,No cooling,CPC I/II
+Bernard,2012,22020244,10,82,7,81,3,,ACTRN12605000179639,Nonshockable,0.48,,EMS Intravascular,33,24,33° cooling,favorable outcome (d/c to home or rehab)
+Kim,2014,24240712,225,688,221,671,3,,NCT00391469,Shockable,0.44,,EMS Intravascular,33,24,No cooling,survival at hospital d/c
+Debaty,2014,25348858,7,123,4,122,3,,NA,Mixed,0.47,,EMS Intravascular,33,,33° cooling,CPC I/II
+Nielsen,2013,24237006,222,464,218,469,3,,NCT01020916,Mixed,0.42,,36° cooling,36,36,33° cooling,death
+Moler (THAPCA-OH),2015,25913022,27,138,15,122,9,,NCT00878644.),Children,0.47,5.9,Surface cooling (pediatrics),33,48,No cooling,VABS-II
+Moler (THAPCA-IH),2017,28118559,48,133,48,124,9,,NCT00880087,Children,,4.7,Surface cooling (pediatrics),33,48,No cooling,VABS-II
