@@ -2,8 +2,6 @@ Cardiac arrest treatment with targeted temperature management
 ============================================
 A living systematic review
 
-Short url: http://
-
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective when surface cooling is used in adults. Heterogeneity of results as measured by I<sup>2</sup> was '[moderate](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 43%. This review updates previously published meta-analysis(es).(citation[s] below)
 
 Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
@@ -27,10 +25,12 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
 
+<!--
 The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
 ![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 The GRADE Profile is below. ![GRADE Profile](files/GRADE-profiles/Summary-of-findings-table.png "GRADE Profile")
+-->
 
 References:
 ----------------------------------
