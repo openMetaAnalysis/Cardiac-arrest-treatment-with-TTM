@@ -39,7 +39,7 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-
+1. Barbarawi M, Alabdouh A, Barbarawi O, Lakshman H, Alkasasbeh M, Rizk F, Bachuwa G, Alkotob ML. Targeted Temperature Management in Cardiac Arrest Patients With an Initial Non-Shockable Rhythm: A Systematic Review and Meta-Analysis. Shock. 2020 Nov;54(5):623-630. doi: 10.1097/SHK.0000000000001550. PMID: [32433212](http://pubmed.gov/32433212).
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
