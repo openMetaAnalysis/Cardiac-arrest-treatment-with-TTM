@@ -62,7 +62,7 @@ References:
 #### Trial(s) included in the review above
 
 #### Trial(s) undergoing review
-None
+1. Dankiewicz J, Cronberg T, Lilja G, Jakobsen JC, Levin H, Ullén S, Rylander C, Wise MP, Oddo M, Cariou A, Bělohlávek J, Hovdenes J, Saxena M, Kirkegaard H, Young PJ, Pelosi P, Storm C, Taccone FS, Joannidis M, Callaway C, Eastwood GM, Morgan MPG, Nordberg P, Erlinge D, Nichol AD, Chew MS, Hollenberg J, Thomas M, Bewley J, Sweet K, Grejs AM, Christensen S, Haenggi M, Levis A, Lundin A, Düring J, Schmidbauer S, Keeble TR, Karamasis GV, Schrag C, Faessler E, Smid O, Otáhal M, Maggiorini M, Wendel Garcia PD, Jaubert P, Cole JM, Solar M, Borgquist O, Leithner C, Abed-Maillard S, Navarra L, Annborn M, Undén J, Brunetti I, Awad A, McGuigan P, Bjørkholt Olsen R, Cassina T, Vignon P, Langeland H, Lange T, Friberg H, Nielsen N; TTM2 Trial Investigators. Hypothermia versus Normothermia after Out-of-Hospital Cardiac Arrest. N Engl J Med. 2021 Jun 17;384(24):2283-2294. doi: 10.1056/NEJMoa2100591. PMID: [34133859](http://pubmed.gov/34133859).
 
 #### Trial(s) excluded - selected list of important trial(s)
 
