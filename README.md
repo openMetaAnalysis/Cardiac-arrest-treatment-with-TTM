@@ -39,7 +39,8 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Barbarawi M, Alabdouh A, Barbarawi O, Lakshman H, Alkasasbeh M, Rizk F, Bachuwa G, Alkotob ML. Targeted Temperature Management in Cardiac Arrest Patients With an Initial Non-Shockable Rhythm: A Systematic Review and Meta-Analysis. Shock. 2020 Nov;54(5):623-630. doi: 10.1097/SHK.0000000000001550. PMID: [32433212](http://pubmed.gov/32433212).
+1. Chiu PY, Chung CC, Tu YK, Tseng CH, Kuan YC. Therapeutic hypothermia in patients after cardiac arrest: A systematic review and meta-analysis of randomized controlled trials. Am J Emerg Med. 2023 Jun 28;71:182-189. doi: 10.1016/j.ajem.2023.06.040. Epub ahead of print. PMID: [37421815](http://pubmed.gov/37421815).
+2. Barbarawi M, Alabdouh A, Barbarawi O, Lakshman H, Alkasasbeh M, Rizk F, Bachuwa G, Alkotob ML. Targeted Temperature Management in Cardiac Arrest Patients With an Initial Non-Shockable Rhythm: A Systematic Review and Meta-Analysis. Shock. 2020 Nov;54(5):623-630. doi: 10.1097/SHK.0000000000001550. PMID: [32433212](http://pubmed.gov/32433212).
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
@@ -58,6 +59,7 @@ References:
 13. Moler FW, Silverstein FS, Holubkov R, Slomine BS, Christensen JR, Nadkarni VM, Meert KL, Browning B, Pemberton VL, Page K, Gildea MR, Scholefield BR, Shankaran S, Hutchison JS, Berger JT, Ofori-Amanfo G, Newth CJL, Topjian A, Bennett KS, Koch JD, Pham N, Chanani NK, Pineda JA, Harrison R, Dalton HJ, Alten J, Schleien CL, Goodman DM, Zimmerman JJ, Bhalala US, Schwarz AJ, Porter MB, Shah S, Fink EL, McQuillen P, Wu T, Skellett S, Thomas NJ, Nowak JE, Baines PB, Pappachan J, Mathur M, Lloyd E, van der Jagt EW, Dobyns EL, Meyer MT, Sanders RCJ, Clark AE, Dean JM. Therapeutic Hypothermia after In-Hospital Cardiac Arrest in Children. N Engl J Med. 2017 Jan 26;376(4):318–329. PMCID: [PMC5310766](http://pubmed.gov/PMC5310766)
 14. Nielsen N, Wetterslev J, Cronberg T, Erlinge D, Gasche Y, Hassager C, Horn J, Hovdenes J, Kjaergaard J, Kuiper M, Pellis T, Stammet P, Wanscher M, Wise MP, Åneman A, Al-Subaie N, Boesgaard S, Bro-Jeppesen J, Brunetti I, Bugge JF, Hingston CD, Juffermans NP, Koopmans M, Køber L, Langørgen J, Lilja G, Møller JE, Rundgren M, Rylander C, Smid O, Werer C, Winkel P, Friberg H. Targeted temperature management at 33°C versus 36°C after cardiac arrest. N Engl J Med. United States; 2013 Dec 5;369(23):2197–2206. PMID: [24237006](http://pubmed.gov/24237006)
 15. Mild therapeutic hypothermia to improve the neurologic outcome after cardiac arrest. N Engl J Med. United States; 2002 Feb 21;346(8):549–556. PMID: [11856793](http://pubmed.gov/11856793)
+16. Strand K, Søreide E, Kirkegaard H, Taccone FS, Grejs AM, Duez CHV, Jeppesen AN, Storm C, Rasmussen BS, Laitio T, Hassager C, Toome V, Hästbacka J, Skrifvars MB. The influence of prolonged temperature management on acute kidney injury after out-of-hospital cardiac arrest: A post hoc analysis of the TTH48 trial. Resuscitation. 2020 Jun;151:10-17. doi: 10.1016/j.resuscitation.2020.01.039. Epub 2020 Feb 20. PMID: [32087257](http://pubmed.gov/32087257).
 
 #### Trial(s) included in the review above
 
